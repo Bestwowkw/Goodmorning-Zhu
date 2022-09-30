@@ -11,7 +11,7 @@
  
 # 信息配置
 # 和风天气apikey
-"weather_key": "dcca0669aaa748dc87bbbe279b7898bb",
+"weather_key": "1cc226e744e8449e903e1a3473b701a1",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "郑州市",
 # 生日1
